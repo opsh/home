@@ -1,0 +1,13 @@
+dhcp,github.com,opsh-cookbooks/dhcp
+chef,github.com,opsh-cookbooks/chef
+kvm,github.com,opsh-cookbooks/kvm
+mosh,github.com,opsh-cookbooks/mosh
+psql,github.com,opsh-cookbooks/psql
+alias,github.com,opsh-cookbooks/alias
+berkshelf,github.com,opsh-cookbooks/berkshelf
+vpn,github.com,opsh-cookbooks/vpn
+tty,github.com,opsh-cookbooks/tty
+vim,github.com,opsh-cookbooks/vim
+vnc,github.com,opsh-cookbooks/vnc
+nodejs,github.com,opsh-cookbooks/nodejs
+ruby,github.com,opsh-cookbooks/ruby
