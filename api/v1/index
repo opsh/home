@@ -1,11 +1,11 @@
-dhcp,github.com,opsh-cookbooks/dhcp
+dhcp,github.com,opsh-cookbooks/isc-dhcp
 chef,github.com,opsh-cookbooks/chef
 kvm,github.com,opsh-cookbooks/kvm
 mosh,github.com,opsh-cookbooks/mosh
 psql,github.com,opsh-cookbooks/psql
 alias,github.com,opsh-cookbooks/alias
 berkshelf,github.com,opsh-cookbooks/berkshelf
-vpn,github.com,opsh-cookbooks/vpn
+vpn,github.com,opsh-cookbooks/softether
 tty,github.com,opsh-cookbooks/tty
 vim,github.com,opsh-cookbooks/vim
 vnc,github.com,opsh-cookbooks/vnc
