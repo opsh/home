@@ -1,5 +1,6 @@
 dhcp,github.com,opsh-cookbooks/isc-dhcp
 chef,github.com,opsh-cookbooks/chef
+testonly,github.com,opsh-cookbooks/testonly
 kvm,github.com,opsh-cookbooks/kvm
 mosh,github.com,opsh-cookbooks/mosh
 psql,github.com,opsh-cookbooks/psql
