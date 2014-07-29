@@ -1,4 +1,4 @@
 alias_git
 env_ps
 global_alias_git
-set_log
+global_history_log
